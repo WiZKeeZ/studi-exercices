@@ -1,0 +1,10 @@
+.boxWithShadow {
+    box-shadow: 4px 6px 20px hsla(0, 0%, 0%, 0.8);
+}
+
+.roundedbox{
+    border-radius: 8px 20px 4px 6px;
+    background-image: url(https://picsum.photos/200);
+    width: 200px;
+    height: 200px;
+  }
