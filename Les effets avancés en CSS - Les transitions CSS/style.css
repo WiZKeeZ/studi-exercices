@@ -1,0 +1,15 @@
+.box-width-transition {
+    padding: 20px;
+    height: 200px;
+    width: 400px;
+    color: white;
+    font-family: sans-serif;
+    background: #5e5e5e;
+    transition: all 0.8s;
+}
+
+.box-width-transition:hover {
+    transition: all 0.8s;
+    width: 700px;
+    background: rgb(0, 113, 189);
+}
