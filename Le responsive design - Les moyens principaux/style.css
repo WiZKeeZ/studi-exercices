@@ -1,0 +1,20 @@
+.change-width {
+    width: 40%;
+    border-style: solid;
+}
+
+.change-height {
+    border-style: solid;
+    height: 2em;
+}
+
+.bottom-right {
+    width: 50%;
+    background: #ff002b;
+    font-size: 2rem;
+    float: right;
+}
+
+.change-viewport {
+    font-size: 7vh;
+}
